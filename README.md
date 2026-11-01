@@ -47,7 +47,7 @@ I am passionate about solving real-world problems through data-driven solutions 
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/VinayShankar9088/YOUR-REPOSITORY-NAME.git
+   git clone https://github.com/VinayShankar9088/Vinay-Shankar-Sharma-Portfolio
    ```
 
 2. Open the project folder.
